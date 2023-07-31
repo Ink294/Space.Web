@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://img.freepik.com/vector-premium/fondo-acuarela-espacio-exterior-purpura_23-2149247753.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    text-align: justify;
+    
+}
+
+nav .myuniv{
+    width: 100px;
+    height: auto;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 500px;
+    margin-left: 30px;
+    margin-top: 0%;
+    float: left;
+}
+
+.main-tittle{
+    font-family: 'Handjet', cursive;
+    text-align: left;
+    font-size: 70px;
+    margin-left: 150px;
+    
+    
+}
+
+
+img{
+    width: 200px;
+    border-radius: 2px;
+    display: block;
+    margin: auto;
+    border-color: white;
+    border-width: 20px;
+    display: flex;
+    
+
+}
+
+
+.wotteo{
+    width: 150px;
+    border-radius: 100px;
+    align-items: center;
+    margin: auto;
+    max-width: 40%;
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.jin{
+    
+    width: 500px;
+    align-items: center;
+    margin: auto;
+    margin: auto;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+
+.intro{
+    float: right;
+    padding: 50px;
+    text-align: center;
+    
+}
+
+body .menu{
+    text-align: center;
+    
+    
+}
+
+.estrellas{
+    font-family: 'Handjet', cursive;
+    text-align: center;
+    font-size: 35px;
+}
+
+.ol{
+    margin-left: 250px; 
+}
+
+.img-estrellas{
+    width: 250px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-right: 250px;
+    margin-top: 0%;
+    float: right;
+}
+
+.ul{
+    margin-left: 240px; 
+}
+
+.img-misiones{
+    width: 250px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-right: 250px;
+    margin-top: 0%;
+    float: right;
+}
+.tittle-misiones{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Handjet', cursive;
+    font-size: 35px;
+    padding-top: 0%;
+}
+ 
+.mexico{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Handjet', cursive;
+    font-size: 35px;
+    padding-top: 0%;
+}
+
+.ul-mex{
+    margin-left: 240px;
+    margin-bottom: 70px;
+}
+
+.img-mex{
+    width: 120px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-right: 300px;
+    margin-top: -30px;
+    float: right;
+}
+.tittle-astrobiologia{
+    font-family: 'Tektur', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.astro{
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.tittle-universo{
+    font-family: 'Tektur', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.univ{
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.univ-2{
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.univ-3{
+    padding: 50px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.tittle-estrellas{
+    font-family: 'Tektur', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.estre{
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.estre-2{
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.estre-3{
+    padding: 50px;
+    padding-top: 0%;
+}
+
+
+.test{
+    padding: 50px;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Handjet', cursive;
+    font-size: 35px;
+    padding-top: 0px;
+    margin-bottom: 0%;
+}
+
+.tests{
+    padding: 50px;
+    padding-top: 0px;
+    text-align: center;
+    margin-top: 0%;
+}
